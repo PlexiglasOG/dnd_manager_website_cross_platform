@@ -33,13 +33,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "44292510b8c9b2f9fa85508cd1f8a2c1",
-"/": "44292510b8c9b2f9fa85508cd1f8a2c1",
-"main.dart.js": "03f5450cb04947a37e51fd7f8e49c049",
+"index.html": "5322314577f650d49e0221f8b0a34a95",
+"/": "5322314577f650d49e0221f8b0a34a95",
+"main.dart.js": "1d00bd63fa8a11f8cd8e3a9548cecc54",
 "manifest.json": "0763230a0ac3e7df0da8614f0ae355ee",
 "sqflite_sw.js": "cceb72d8592a5ad4acc7f296e4a96d4e",
 "sqlite3.wasm": "f08450f1d5a088a01cec0eb541c3aeca",
-"version.json": "90abe5d052f167f455fb31dc615cb4dd"};
+"version.json": "b0d36a850bc6ff129782b89613aa91af"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
